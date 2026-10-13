@@ -1,21 +1,20 @@
-# نظام إدارة ودفع مالي للماركات
-**Brand Finance & Payment Management System** · التصنيف: منصة تجارية
+# Brand Finance & Payment Management System
+**Brand Finance & Payment Management System** · Category: Commercial Platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-نظام إداري لإدارة حسابات الماركات المسجّلة ومعالجة مدفوعاتها وعمولاتها ضمن المنصة.
+## Project Overview
+An administrative system to manage registered brands' accounts and to process their payments and commissions within the platform.
 
-## أبرز النقاط
-- إدارة مركزية لحسابات الماركات/البائعين
-- معالجة الدفع وتتبع العمولات لكل ماركة
-- لوحة تحكم إدارية للمتابعة المالية
+## Highlights
+- Centralized management of brand/seller accounts
+- Payment processing and commission tracking for each brand
+- Administrative dashboard for financial monitoring
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business Platforms Developer: requirements analysis and building the system, the admin dashboard, the database, and reports.
 
-## التقنيات المستخدمة
+## Technologies used
 Admin Dashboard, Payments, Database
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — نظام إدارة ودفع مالي للماركات
+# 🛠️ Technologies Used — Brand Finance & Payment Management System
 
 - Admin Dashboard
 - Payments
